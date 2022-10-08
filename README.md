@@ -1,6 +1,6 @@
 # Angular - MAPP - Movies APP
 
-Repositório contendo o projeto de Angular da Pós Graduação da UNIESP - MBA em Fullstack Web Development
+Repositório contendo o projeto de Angular da Pós Graduação da UNIESP - MBA em Fullstack Web Development utilizando a API do The Movie DB (https://www.themoviedb.org/)
 
 ## 💻 Tecnologias Utilizadas (Frontend)
 
