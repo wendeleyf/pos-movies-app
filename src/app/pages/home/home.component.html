@@ -1,2 +1,5 @@
-<app-slider [items]="movies"></app-slider>
-<app-items-banner></app-items-banner>
+<app-slider [items]="popularMovies"></app-slider>
+<app-items-banner sectionTitle="Em alta" [items]="upcomingMovies"></app-items-banner>
+<app-items-banner sectionTitle="Mais bem avaliados" [items]="topRatedMovies"></app-items-banner>
+
+<!-- TODO: Seriados -->
