@@ -1,27 +1,43 @@
-# MoviesApp
+# Angular - MAPP - Movies APP
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.1.
+Repositório contendo o projeto de Angular da Pós Graduação da UNIESP - MBA em Fullstack Web Development
 
-## Development server
+## 💻 Tecnologias Utilizadas (Frontend)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+* Framework Angular
+* SCSS
+* PrimeFlex
 
-## Code scaffolding
+## 🚀 Funcionalidades Implementadas (WIP)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+* Listagem de filmes em alta;
+* Listagem de filmes com maiores notas;
+* Carrosel com filmes populares.
 
-## Build
+## 🚀 Funcionalidades para Implementar (WIP)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+* Seção de seriados;
+* Busca por filmes;
+* Detalhamento de filmes
 
-## Running unit tests
+## 🔨 Ferramentas Utilizadas
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+* [**Visual Studio Code**](https://code.visualstudio.com/)
+* [**Angular 13**](https://angular.io/)
+* [**npm**](https://www.npmjs.com/)
+* [**CMDER 210912**](https://cmder.net/)
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## 🌎 Aplicação (WIP)
 
-## Further help
+![image](https://user-images.githubusercontent.com/27966289/194728744-84ff8aa0-8d86-4e3d-aa52-5705dfc96b57.png)
+![image](https://user-images.githubusercontent.com/27966289/194728754-e9c2136f-9c3d-4d4f-a534-9309fd63e82d.png)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+<br>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
+</div>
+
+<h3 align="center"> ⚠ README em Construção! </h3>
+
