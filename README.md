@@ -18,7 +18,8 @@ Repositório contendo o projeto de Angular da Pós Graduação da UNIESP - MBA e
 
 * Seção de seriados;
 * Busca por filmes;
-* Detalhamento de filmes
+* Detalhamento de filmes;
+* Busca por gênero.
 
 ## 🔨 Ferramentas Utilizadas
 
