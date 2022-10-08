@@ -1,16 +1,16 @@
 <div class="slider">
-	<div class="slide">
+	<div class="slide" *ngFor="let item of items">
 		<div class="slide-bg">
 			<img class="slide-bg-image" src="https://image.tmdb.org/t/p/original/jpipejVjqn7ifln05xeq9zpvprf.jpg" alt="">
 		</div>
 		<div class="slide-pane">
 			<h2 class="movie-name">
-				Olhos Famintos: Renascimento
+				{{item.title}}
 			</h2>
 			<div class="meta">
 				<div class="info">
 					<span class="rating">
-						<span>star</span>
+						<span class="app-icon">star</span>
 						<span class="rating-value">7.5</span>
 						<span>/10</span>
 					</span>
